@@ -6,7 +6,7 @@ A simple and interactive currency converter web application built using **HTML**
 
 ## 🌐 Live Preview
 
-[🔗 Click Here to View Live](https://your-live-demo-link.com)  
+[🔗 Click Here to View Live](https://asfnsa.github.io/currency-converter/) 
 (Replace with your deployed GitHub Pages or Netlify link)
 
 ---
